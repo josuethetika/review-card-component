@@ -34,6 +34,9 @@ h1{
     font-family: 'Fraunces', serif;
 
 }
+.para{
+    width: 251px;
+}
 .para p{
     margin-top: 25px;
     line-height: 20px;
@@ -43,6 +46,7 @@ h1{
     font-size: 0.9rem;
     line-height: 22px;
     width: 100%;
+    padding:0 30px 0 0;
 }
 .num2{
     margin-left: 20px;
